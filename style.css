@@ -1,0 +1,39 @@
+.box-1{
+    background-color: green;
+    height: 400px;
+    width: 600px;
+    position: relative;
+
+
+}
+
+.box-2{
+
+    height: 300px;
+    width: 300px;
+    background-color: red;
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    right: 0px;
+    bottom: 0px;
+    margin: auto;
+    box-sizing: border-box;
+    border-radius: 50%;
+    border: salmon 5px solid;
+    
+}
+
+.float img{
+
+    height: 200px;
+    width: 200px;
+    float: right;
+
+}
+.box {
+    width: 400px;
+    height: 400px;
+    background-color: red;
+    box-shadow: #0000ffb8 50px 50px 50px;
+}
